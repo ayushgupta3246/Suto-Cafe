@@ -447,7 +447,7 @@ const menuItems = [
   { id:12, name:"Mango Shake",              cat:"beverages",   price:79,  popular:false, desc:"Thick Alphonso mango milkshake — pure summer nostalgia",        img:"https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500&q=80" },
   { id:13, name:"French Fries",             cat:"snacks",      price:79,  popular:true,  desc:"Crispy golden fries with signature house seasoning blend",      img:"https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=500&q=80" },
   { id:14, name:"Veg Momos",               cat:"snacks",      price:89,  popular:true,  desc:"Handcrafted dumplings with fiery house dipping sauce",         img:"https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=500&q=80" },
-  { id:15, name:"Garlic Bread",             cat:"snacks",      price:69,  popular:false, desc:"Toasted sourdough with herb butter & roasted garlic",           img:"C:\Users\lenovo\Pictures\suto garlic.png" },
+  { id:15, name:"Garlic Bread",             cat:"snacks",      price:69,  popular:false, desc:"Toasted sourdough with herb butter & roasted garlic",           img:"/images/suto_garlic.png" },
   { id:16, name:"Loaded Nachos",            cat:"snacks",      price:99,  popular:false, desc:"Crispy nachos with cheese dip, salsa & pickled jalapeños",     img:"https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=500&q=80" },
 ];
 
